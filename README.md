@@ -62,5 +62,98 @@ Kumar Kishan
 B.Tech CSE (Cybersecurity)
 
 ---
+## 🌐 Live Demo
 
+Experience SentinelAI in real-time:
+
+🔗 **Dashboard (Frontend):**  
+https://sentinelai-sigma.vercel.app  
+
+🔗 **Backend API:**  
+https://web-production-b96f9.up.railway.app  
+
+📄 **API Documentation (Swagger):**  
+https://web-production-b96f9.up.railway.app/api/docs  
+
+---
+
+## 🧪 Demo Credentials
+
+Use the following credentials to explore the system:
+
+- **Username:** admin  
+- **Password:** SentinelAdmin2024!
+
+---
+
+## ⚡ How to Test
+
+1. Login to the dashboard  
+2. Register or connect an endpoint agent  
+3. Trigger events:
+   - Insert USB
+   - Run unauthorized app
+   - Copy multiple files
+4. Watch real-time updates:
+   - Risk score increases
+   - Alerts generated instantly
+   - Dashboard updates via WebSocket  
+
+---
+
+## 📱 Device Compatibility
+
+- 💻 Desktop (Recommended)
+- 📱 Mobile (Fully Responsive UI)
+- 🌐 Works globally (Vercel CDN)
+
+---
+
+## 🚀 Deployment Info
+## 🌐 Live Demo
+
+Experience SentinelAI in real-time:
+
+🔗 **Dashboard (Frontend):**  
+https://sentinelai-sigma.vercel.app  
+
+🔗 **Backend API:**  
+https://web-production-b96f9.up.railway.app  
+
+📄 **API Documentation (Swagger):**  
+https://web-production-b96f9.up.railway.app/api/docs  
+
+---
+
+## 🧪 Demo Credentials
+
+Use the following credentials to explore the system:
+
+- **Username:** admin  
+- **Password:** SentinelAdmin2024!
+
+---
+
+## ⚡ How to Test
+
+1. Login to the dashboard  
+2. Register or connect an endpoint agent  
+3. Trigger events:
+   - Insert USB
+   - Run unauthorized app
+   - Copy multiple files
+4. Watch real-time updates:
+   - Risk score increases
+   - Alerts generated instantly
+   - Dashboard updates via WebSocket  
+
+---
+
+## 📱 Device Compatibility
+
+- 💻 Desktop (Recommended)
+- 📱 Mobile (Fully Responsive UI)
+- 🌐 Works globally (Vercel CDN)
+
+---
 ⭐ If you like this project, give it a star!
